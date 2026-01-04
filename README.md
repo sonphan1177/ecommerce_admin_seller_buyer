@@ -1,7 +1,7 @@
 # Website Thương Mại Điện Tử
 
 ## Mô tả
-Website thương mại điện tử đơn giản,
+Website thương mại điện tử đơn giản ,
 có phân quyền người dùng gồm Admin, Seller và Buyer.
 
 ## Vai trò người dùng

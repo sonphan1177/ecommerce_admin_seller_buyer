@@ -2,16 +2,17 @@
 
 ## Mô tả
 Website thương mại điện tử đơn giản ,
-có phân quyền người dùng gồm Admin, Seller và Buyer.
+có phân quyền người dùng gồm Admin, Seller, Buyer và User.
 
 ## Vai trò người dùng
 - **Admin**: Quản lý người dùng, xem đơn hàng
 - **Seller**: Quản lý sản phẩm
 - **Buyer**: Xem sản phẩm, thêm vào giỏ hàng
+- **User**: Xem danh sách sản phẩm/Chi tiết sản phẩm.
 
 ## Chức năng chính
 - Đăng ký / Đăng nhập
-- Phân quyền Admin – Seller – Buyer
+- Phân quyền Admin – Seller – Buyer - User
 - Quản lý sản phẩm (thêm / sửa / xóa)
 - Giỏ hàng (mô phỏng)
 
